@@ -1,0 +1,10 @@
+C:\Users\ERNA\source\repos\college\college\bin\Debug\college.exe.config
+C:\Users\ERNA\source\repos\college\college\bin\Debug\college.exe
+C:\Users\ERNA\source\repos\college\college\bin\Debug\college.pdb
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.csprojAssemblyReference.cache
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.Form1.resources
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.Properties.Resources.resources
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.csproj.GenerateResource.cache
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.csproj.CoreCompileInputs.cache
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.exe
+C:\Users\ERNA\source\repos\college\college\obj\Debug\college.pdb
